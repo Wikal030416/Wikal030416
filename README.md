@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wikal030416
+- 👋 Hi, I’m Wikal Alfandi
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me https://wikal030416.github.io/wikalalfandi.io/
